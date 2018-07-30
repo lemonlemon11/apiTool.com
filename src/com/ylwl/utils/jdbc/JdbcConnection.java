@@ -9,7 +9,7 @@ import java.sql.Statement;
 public class JdbcConnection {
 	
 		private static final String DRIVER="com.mysql.jdbc.Driver";
-		private static final String URL="jdbc:mysql://localhost:3306/apiTool?useUnicode=true&characterEncoding=utf-8";
+		private static final String URL="jdbc:mysql://47.75.87.125:3305/apiTool?useUnicode=true&characterEncoding=utf-8";
 		private static final String USER="root";
 		private static final String PASS="123456";
 		
